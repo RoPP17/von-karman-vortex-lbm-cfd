@@ -1,4 +1,4 @@
-# 🌊 Von Kármán Vortex Street CFD — Lattice Boltzmann Method (LBM D2Q9)
+﻿# 🌊 Von Kármán Vortex Street CFD — Lattice Boltzmann Method (LBM D2Q9)
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2020a%20--%20R2025b%2B-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![CFD](https://img.shields.io/badge/Physics-Navier--Stokes%20CFD-00599C?style=for-the-badge)](https://en.wikipedia.org/wiki/Computational_fluid_dynamics)
@@ -77,3 +77,23 @@ $$f_i(\mathbf{x} + \mathbf{e}_i \Delta t, t + \Delta t) - f_i(\mathbf{x}, t) = -
 ## 📜 Licencia
 
 Distribuido bajo la Licencia [MIT](LICENSE).
+
+---
+
+## 📚 Citación Académica (Citation)
+
+Si utilizas este software o código en investigaciones, docencia o proyectos de ingeniería, por favor cítalo como:
+
+``bibtex
+@software{pepe_sanchez_2026_von_karman_lbm,
+  author       = {Pepe Sánchez, Roberto Andrés},
+  title        = {von-karman-vortex-lbm-cfd: 2D Lattice Boltzmann Fluid Dynamics Simulation of Von Kármán Vortex Streets},
+  month        = oct,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  url          = {https://github.com/RoPP17/von-karman-vortex-lbm-cfd}
+}
+``
+
+También puedes citarlo automáticamente usando el botón **"Cite this repository"** en la barra lateral de GitHub o leyendo directamente el archivo [CITATION.cff](./CITATION.cff).

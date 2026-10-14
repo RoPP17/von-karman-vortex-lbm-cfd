@@ -1,0 +1,21 @@
+{
+  "title": "von-karman-vortex-lbm-cfd: 2D Lattice Boltzmann Fluid Dynamics Simulation of Von Kármán Vortex Streets",
+  "upload_type": "software",
+  "description": "A high-performance 2D Computational Fluid Dynamics (CFD) solver based on the Lattice Boltzmann Method (LBM D2Q9 BGK formulation) for analyzing unsteady viscous flow past bluff bodies and transient vortex shedding dynamics (Von Kármán vortex streets). Developed for computational mechanics and physical research.",
+  "creators": [
+    {
+      "name": "Pepe Sánchez, Roberto Andrés",
+      "affiliation": "Universidad Técnica de Ambato"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "computational-fluid-dynamics",
+    "lattice-boltzmann-method",
+    "von-karman-vortices",
+    "fluid-mechanics",
+    "python",
+    "scientific-computing"
+  ]
+}
