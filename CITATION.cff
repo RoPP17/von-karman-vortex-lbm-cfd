@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "von-karman-vortex-lbm-cfd: 2D Lattice Boltzmann Fluid Dynamics Simulation of Von Kármán Vortex Streets"
+authors:
+  - family-names: "Pepe Sánchez"
+    given-names: "Roberto Andrés"
+    affiliation: "Universidad Técnica de Ambato"
+    email: "andrespepe014@gmail.com"
+version: "1.0.0"
+date-released: "2026-10-14"
+license: "MIT"
+repository-code: "https://github.com/RoPP17/von-karman-vortex-lbm-cfd"
+keywords:
+  - "computational-fluid-dynamics"
+  - "lattice-boltzmann-method"
+  - "von-karman-vortices"
+  - "fluid-mechanics"
+  - "python"
+  - "scientific-computing"
